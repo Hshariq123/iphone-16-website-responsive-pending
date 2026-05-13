@@ -1,35 +1,152 @@
-<h1>iPhone 16 clone webpage</h1>
-<h2>About</h2>
-<p>
-This project demonstrates a simple clone webpage of iphone 16 webpage.
-</p>
-<h2>Technologies used</h3>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Javascript</li>
-  <li>Node.JS and Express</li>
-</ul>
-<p>At present the project is just a standalone webpage. Further Links will be added in the future.</p>
-<h2>Upcoming Update:</h2>
-<p>Addition of items in the hamburger menu at the top navigation bar.</p>
-<h2>How to run:</h2>
-<h3>Method 1</h3>
-<p>Before you run this project, you should have Node.Js installed in your computer.</p>
-<ol type="1">
-  <li>Create a new folder(say Project)</li>
-  <li>Open command prompt</li>
-  <li>head over to the new folder using cmd. For example:</li>
-  <code>cd "path/to/your/project/folder"</code>
-  <li>Clone the repository to this folder using git clone as shown:</li>
-  <code>git clone https://github.com/Hshariq123/iphone-16-website-responsive-pending.git</code>
-  <li>Once the repository is cloned, cd to the cloned repository using:</li>
-  <code>cd iphone-16-website-responsive-pending</code>
-  <li>Install the necessary node_modules using:</li>
-  <code>npm install</code>
-  <li>Deploy local server using:</li>
-  <code>node server.js</code>
-  <li>go to <a href="http://localhost:3000">localhost:3000</a></li>
-</ol>
-<h3>Method 2</h3>
-After cloning repository to your local project folder open "public" folder and then index.html. 
+# iPhone 16 Clone Webpage
+
+## About
+
+This project demonstrates a responsive clone webpage inspired by the Apple iPhone 16 product website. The webpage includes modern UI sections, responsive layouts, interactive elements, and smooth visual styling built using frontend web technologies.
+
+---
+
+## Live Demo
+
+Application Link:
+
+https://iphone-16-website-responsive-pendin.vercel.app/
+
+---
+
+## Features
+
+- Responsive webpage design
+- Modern Apple-inspired UI
+- Interactive slideshow sections
+- Smooth layout structure
+- Mobile-friendly interface
+- Navigation bar with hamburger menu
+- Product showcase sections
+- Optimized frontend styling
+
+---
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Node.js
+- Express.js
+
+---
+
+## Project Structure
+
+```bash
+iphone-16-website-responsive-pending/
+│
+├── public/
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│   └── assets/
+│
+├── server.js
+├── package.json
+├── package-lock.json
+└── README.md
+```
+
+---
+
+## Installation and Setup
+
+### Method 1
+
+Before running this project, ensure Node.js is installed on your system.
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Hshariq123/iphone-16-website-responsive-pending.git
+```
+
+Move into the project directory:
+
+```bash
+cd iphone-16-website-responsive-pending
+```
+
+Install all required dependencies:
+
+```bash
+npm install
+```
+
+Start the local server:
+
+```bash
+node server.js
+```
+
+The application will run on:
+
+```bash
+http://localhost:3000
+```
+
+Open the above URL in your browser to view the application.
+
+---
+
+### Method 2
+
+After cloning the repository:
+
+- Open the `public` folder
+- Open `index.html` directly in your browser
+
+---
+
+## Future Improvements
+
+- Addition of items in the hamburger navigation menu
+- Add animations and transitions
+- Improve accessibility
+- Add more interactive product sections
+- Optimize performance and responsiveness further
+
+---
+
+## Learning Outcomes
+
+This project helped in learning:
+
+- Responsive web design
+- Modern CSS layouts
+- JavaScript DOM manipulation
+- Frontend UI development
+- Responsive navigation bar implementation
+- Basic Node.js and Express server setup
+- Website structuring and optimization
+
+---
+
+## Repository
+
+GitHub Repository:
+
+https://github.com/Hshariq123/iphone-16-website-responsive-pending
+
+---
+
+## Author
+
+Shariq Hussain
+
+GitHub:
+
+https://github.com/Hshariq123
+
+---
+
+## License
+
+This project is open source.
